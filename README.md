@@ -1,6 +1,6 @@
 # Docker container architecture
 
-This diagram contains whole architecture dockercontainers used to Booking Project. 
+This diagram contains whole architecture docker containers used to Booking Project. 
 
 
 
