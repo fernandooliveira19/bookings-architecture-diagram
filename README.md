@@ -4,7 +4,7 @@ This diagram contains whole architecture docker containers used to Booking Proje
 
 ![Docker containers](https://github.com/fernandooliveira19/bookings-architecture-diagram/blob/main/booking-ms-architecture.png)
 
-# Microservice execution order
+## Order of execution of the microservices
 
 * 1 - bkn-config-server
 * 2 - bkn-eureka-server
