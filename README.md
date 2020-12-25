@@ -11,3 +11,8 @@ This diagram contains whole architecture docker containers used to Booking Proje
 * 3 - bkn-api-gateway-zuul
 * 4 - bkn-oauth
 * others
+
+## Docker commands
+
+* Create network
+$ docker network create bkn-net
