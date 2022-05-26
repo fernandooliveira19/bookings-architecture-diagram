@@ -10,7 +10,7 @@ This diagram contains whole architecture docker containers used to Booking Proje
 * 2 - bkn-eureka-server
 * 3 - bkn-api-gateway-zuul
 * 4 - bkn-oauth
-* others
+* 5 - bkn-booking
 
 ## Docker commands
 
