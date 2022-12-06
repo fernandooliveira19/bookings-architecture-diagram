@@ -11,6 +11,7 @@ This diagram contains whole architecture docker containers used to Booking Proje
 * 3 - bkn-api-gateway-zuul
 * 4 - bkn-booking
 * 5 - bkn-user
+* 6 - bkn-web-app
 
 ## Docker commands
 
