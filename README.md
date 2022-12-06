@@ -6,11 +6,11 @@ This diagram contains whole architecture docker containers used to Booking Proje
 
 ## Order of execution of the microservices
 
-* 1 - bkn-config-server
+* 1 - bkn-config-server - to develop
 * 2 - bkn-eureka-server
 * 3 - bkn-api-gateway-zuul
-* 4 - bkn-oauth
-* 5 - bkn-booking
+* 4 - bkn-booking
+* 5 - bkn-user
 
 ## Docker commands
 
