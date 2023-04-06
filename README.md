@@ -8,13 +8,7 @@ This diagram contains whole architecture docker containers used to Booking Proje
 
 * 1 - bkn-config-server - to develop
 * 2 - bkn-eureka-server - https://github.com/fernandooliveira19/bkn-eureka-server
-* 3 - bkn-api-gateway-zuul
-* 4 - bkn-booking
-* 5 - bkn-user
-* 6 - bkn-web-app
-
-## Docker commands
-
-* Create network
-
-$ docker network create bkn-net
+* 3 - bkn-api-gateway-zuul - https://github.com/fernandooliveira19/bkn-api-gateway-zuul
+* 4 - bkn-booking - https://github.com/fernandooliveira19/bkn-booking
+* 5 - bkn-user - https://github.com/fernandooliveira19/bkn-user
+* 6 - bkn-web-app - https://github.com/fernandooliveira19/booking-app-starter
