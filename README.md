@@ -12,4 +12,3 @@ This diagram contains whole architecture docker containers used to Booking Proje
 * 4 - bkn-booking - https://github.com/fernandooliveira19/bkn-booking
 * 5 - bkn-user - https://github.com/fernandooliveira19/bkn-user
 * 6 - bkn-web-app - https://github.com/fernandooliveira19/booking-app-starter
-* 7 - bkn-config-server - to develop
