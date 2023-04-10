@@ -11,5 +11,5 @@ This diagram contains whole architecture docker containers used in the Booking P
 * 3 - bkn-api-gateway-zuul - https://github.com/fernandooliveira19/bkn-api-gateway-zuul
 * 4 - bkn-booking - https://github.com/fernandooliveira19/bkn-booking
 * 5 - bkn-user - https://github.com/fernandooliveira19/bkn-user
-* 6 - bkn-web-app - https://github.com/fernandooliveira19/booking-app-starter
+* 6 - bkn-web - https://github.com/fernandooliveira19/booking-app-starter
 * 7 - bkn-mobile - not implemented yet
